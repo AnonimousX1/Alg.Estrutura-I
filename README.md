@@ -6,6 +6,6 @@ Ordenação por seleção e inserção.
 Pilhas, Filas e principais operações.
 
 **Árvores**: representação, operações e percursos em árvores.
-Árvores binárias, árvores binárias de busca e árvores balanceadas (AVL e B).
+Árvores binárias, árvores binárias de busca
 
 **Hashing**: funções hash e tratamento de colisões.
